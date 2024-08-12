@@ -2,6 +2,7 @@
 	<img src="https://media1.tenor.com/m/ZA9uBeCYNlsAAAAC/pokeball-shimmer.gif">
 </div>
 
+
 A Pokemon-Themed Personal Portfolio Website.
 
 Made using HTML, CSS, and Javascript.
