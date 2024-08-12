@@ -1,4 +1,6 @@
-				![Pokeball](https://github.com/user-attachments/assets/17a36047-06b9-45b1-ac9f-58785d129f16)
+<div align="center">
+	<img src="https://media1.tenor.com/m/ZA9uBeCYNlsAAAAC/pokeball-shimmer.gif">
+</div>
 
 A Pokemon-Themed Personal Portfolio Website.
 
